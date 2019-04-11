@@ -1,0 +1,15 @@
+
+img {
+    border: 10px solid blue;
+}
+
+div {
+    font-family: "MyLobsterRegular";
+}
+
+@font-face {
+    font-family: 'MyLobsterRegular';
+    src:  url('./Lobster-Regular.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
